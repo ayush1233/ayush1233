@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+There%2C+I'm+Ayush+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hey+There%2C+I'm+Ayush+Sonone+%F0%9F%91%8B;Full-Stack+%26+ML+Developer+%7C+AI+Builder" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Sonone&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20ML%20Developer%20%E2%80%A2%20AI%20%2F%20Computer%20Vision%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=55&descSize=16" width="100%" />
 
 </div>
 
@@ -12,16 +12,20 @@
 <img align="right" width="340" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df3c72eff635427836cffa/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ### 🚀 About Me
-
 ```typescript
 const ayush = {
-  name: "Ayush Kumar",
-  role: "Full-Stack Developer & AI Engineer",
-  location: "India 🇮🇳",
-  focus: ["Web Apps", "AI/ML", "Cloud (GCP)", "DevOps"],
-  currentlyBuilding: "Shadow Deploy — AI-powered deployment platform",
-  learning: ["LLMs", "Vertex AI", "Multi-Agent Systems"],
-  funFact: "I automate my own job search 🤖"
+  name: "Ayush Sonone",
+  role: "Full-Stack & ML Developer",
+  location: "Amravati, Maharashtra 🇮🇳",
+  education: "B.E. Computer Science @ PRMIT&R (2022–2026)",
+  focus: ["Java/Spring Boot", "React.js", "Python/ML", "AWS & Docker"],
+  currentlyBuilding: [
+    "Shadow Deploy — zero-impact traffic mirroring platform",
+    "Smart Vision — AI OCR & Computer Vision inventory system",
+    "WildTrack AI — deforestation & wildlife tracking web app"
+  ],
+  achievements: "🥇 Global Rank 1 — Mercer Mettl CodeSmash 4.0",
+  contact: "ayushsonone72@gmail.com"
 };
 ```
 
@@ -30,77 +34,82 @@ const ayush = {
 ---
 
 ### 🛠️ Tech Stack
-
 <div align="center">
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Frontend**
+**Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-**Backend & Cloud**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Tools**
+**Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
 ---
 
 ### 🌟 Featured Projects
-
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-#### 🛡️ [Shadow Deploy](https://github.com/ayush1233/shadow-deploy)
-> AI-powered deployment platform with real-time monitoring, automated rollback, and multi-agent orchestration.
+#### 🧠 [Smart Vision – AI Inventory System](https://github.com/ayush1233/smart-vision)
+> OCR & computer vision pipeline (Python, OpenCV) for expiry detection and product freshness classification.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-⭐ 1 | 🔀 0 | 🚀 Active
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+📦 500+ SKUs/shift • 🎯 94% accuracy • ⬇️ 30% waste reduction
 
 </td>
 <td width="50%">
 
-#### 🤖 [Smart Vision](https://github.com/ayush1233/smart-vision)
-> AI-powered video analysis using Meta LLaMA 3.2 90B Vision on Google Cloud Vertex AI — built with Streamlit.
+#### 🛡️ [Shadow Deploy Platform](https://github.com/ayush1233/shadow-deploy)
+> Zero-impact traffic mirroring with NGINX & Go + AI analytics via Gemini, React.js, PostgreSQL on AWS EC2.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-🔬 AI/ML | 🆕 Latest
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+⭐ 1 | 🚀 Active | ⬇️ 60% faster discrepancy detection
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🎨 [Portfolio Website](https://github.com/ayush1233/v0-portfolio-website-ayush)
-> Full-stack portfolio with GSAP horizontal scroll animations, glassmorphism UI, and Node.js backend.
+#### 🌿 [WildTrack AI](https://github.com/ayush1233)
+> Interactive web app (React.js, Django) for NDVI satellite forest-loss visualization and species movement tracking.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-⭐ 1 | 💼 Portfolio
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+🌍 15+ regions • 🐾 10+ species datasets • 🛰️ Real-time biodiversity
 
 </td>
 <td width="50%">
@@ -109,27 +118,8 @@ const ayush = {
 > AI-powered support ticket system with intelligent routing, auto-categorization, and response generation.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-🤖 AI | 🎟️ SaaS
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏪 [Asset Manager](https://github.com/ayush1233/Asset-Manager)
-> Full-featured asset management system with real-time tracking and reporting dashboard.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-📊 Dashboard | 💼 Enterprise
-
-</td>
-<td width="50%">
-
-#### 📦 [Delivery Track Pro](https://github.com/ayush1233/delivery-track-pro)
-> Real-time delivery tracking platform with map visualization and status updates.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-🗺️ Maps | 📡 Real-time
+🤖 AI-Powered | 🎟️ SaaS | ⚡ Real-time
 
 </td>
 </tr>
@@ -138,8 +128,35 @@ const ayush = {
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
+<div align="center">
 
+| 🥇 Award | 📋 Details |
+|---|---|
+| 🏆 **Mercer Mettl CodeSmash 4.0** | **Global Rank 1** — First Place among thousands worldwide |
+| 🌐 **TCS CodeVita Season 13** | **Global Rank 737** — Qualified Round 2 |
+| 🎃 **Hacktoberfest 2024** | Completed with **4 merged pull requests** |
+| 💻 **GirlScript Summer of Code 2024** | Selected contributor — code & documentation improvements |
+| 🛒 **Flipkart GRID 6.0** | End-to-end computer vision solution for product quality detection |
+
+</div>
+
+---
+
+### 📜 Certifications
+<div align="center">
+
+![Mercer](https://img.shields.io/badge/🏆_Mercer_Mettl_CodeSmash_4.0-Winner_Certificate-gold?style=for-the-badge)
+
+![IBM](https://img.shields.io/badge/IBM-Full_Stack_Software_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+![Stanford](https://img.shields.io/badge/Stanford_x_Coursera-Machine_Learning_Specialization-8C1515?style=for-the-badge&logo=coursera&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush1233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -161,8 +178,7 @@ const ayush = {
 
 ---
 
-### 🏆 GitHub Trophies
-
+### 🏅 GitHub Trophies
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayush1233&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -171,24 +187,21 @@ const ayush = {
 
 ---
 
-### 📈 What I'm Working On
-
+### 📈 What I'm Building
 ```
-🔨 Shadow Deploy  →  AI-powered multi-tenant deployment orchestration
-🤖 Smart Vision   →  LLM-powered video intelligence on Vertex AI  
-🌐 Portfolio v2   →  GSAP-animated full-stack showcase
-📊 Career-Ops     →  Automated AI job search & application pipeline
+🧠 Smart Vision     →  OCR + CV pipeline: 500+ SKUs/shift, 94% accuracy
+🛡️ Shadow Deploy    →  Zero-impact traffic mirroring + AI risk analytics
+🌿 WildTrack AI     →  NDVI satellite data + Movebank species tracking
+📚 DSA Practice     →  Competitive programming (CodeSmash Rank #1 🏆)
 ```
 
 ---
 
-### 🤝 Connect With Me
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush1233)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush1233)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ayush1233/v0-portfolio-website-ayush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sonone-5ba971247)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsonone72@gmail.com)
 
 </div>
 
