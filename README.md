@@ -12,22 +12,30 @@
 <img align="right" width="340" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df3c72eff635427836cffa/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ### 🚀 About Me
-```typescript
-const ayush = {
-  name: "Ayush Sonone",
-  role: "Full-Stack & ML Developer",
-  location: "Amravati, Maharashtra 🇮🇳",
-  education: "B.E. Computer Science @ PRMIT&R (2022–2026)",
-  focus: ["Java/Spring Boot", "React.js", "Python/ML", "AWS & Docker"],
-  currentlyBuilding: [
-    "Shadow Deploy — zero-impact traffic mirroring platform",
-    "Smart Vision — AI OCR & Computer Vision inventory system",
-    "WildTrack AI — deforestation & wildlife tracking web app"
-  ],
-  achievements: "🥇 Global Rank 1 — Mercer Mettl CodeSmash 4.0",
-  contact: "ayushsonone72@gmail.com"
-};
-```
+
+<br/>
+
+👤 &nbsp;**Ayush Sonone** — Full-Stack & ML Developer
+
+🎓 &nbsp;B.E. Computer Science @ PRMIT&R, Amravati *(2022 – 2026)*
+
+📍 &nbsp;Amravati, Maharashtra, India 🇮🇳
+
+📧 &nbsp;[ayushsonone72@gmail.com](mailto:ayushsonone72@gmail.com)
+
+🔗 &nbsp;[linkedin.com/in/ayush-sonone-5ba971247](https://linkedin.com/in/ayush-sonone-5ba971247)
+
+<br/>
+
+🏆 &nbsp;**Global Rank #1** — Mercer Mettl CodeSmash 4.0
+
+🌐 &nbsp;**Global Rank #737** — TCS CodeVita Season 13
+
+<br/>
+
+🔨 &nbsp;Currently building **Shadow Deploy**, **Smart Vision** & **WildTrack AI**
+
+🌱 &nbsp;Exploring **LLMs**, **Microservices**, **Apache Kafka** & **Multi-Agent Systems**
 
 <br clear="both"/>
 
